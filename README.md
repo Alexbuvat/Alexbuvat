@@ -1,21 +1,21 @@
 # Alex Buvat
 
-Dental surgeon and AI healthcare researcher building privacy-first medical AI tools.
+Dental surgeon and AI healthcare researcher working at the intersection of clinical practice, medical artificial intelligence, medical imaging, and health data privacy.
 
-I work at the intersection of clinical practice, medical artificial intelligence, medical imaging, and health data privacy. My current focus is **Havemia**, a privacy-by-design medical pre-consultation platform designed to improve the quality and structure of clinical information before the medical encounter.
-
-I am also a PhD candidate at Université Paris Cité, working on the creation, evaluation, and validation of an AI-driven osteoporosis biomarker from dental panoramic radiographs.
+I am a PhD candidate at Université Paris Cité, working on the creation, evaluation, and validation of an AI-driven osteoporosis biomarker from dental panoramic radiographs.
 
 ## Current focus
 
-- Building secure healthcare AI products with a strong privacy-by-design approach.
-- Developing medical pre-consultation workflows that support clinicians without replacing clinical judgment.
+- Building secure and privacy-conscious healthcare AI tools.
 - Working on AI applications in medical imaging, dental panoramic radiographs, and osteoporosis biomarker development.
 - Exploring clinical validation, health data security, and responsible deployment of AI in healthcare.
+- Bridging clinical practice, medical research, and software development.
 
 ## About my repositories
 
-Most of my current startup work is in private repositories due to the security-sensitive nature of healthcare software.
+Most of my current development work is in private repositories due to the security-sensitive nature of healthcare software.
+
+My public repositories include selected earlier projects in public health, AI, data visualization, and academic research. Some older repositories may be kept public as examples of previous work, but they are not necessarily actively maintained.
 
 ## Background
 
