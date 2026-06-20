@@ -17,8 +17,6 @@ I am also a PhD candidate at Université Paris Cité, working on the creation, e
 
 Most of my current startup work is in private repositories due to the security-sensitive nature of healthcare software.
 
-My public repositories include selected earlier projects in public health, AI, data visualization, and academic research. Some older repositories may be kept public as examples of previous work, but they are not necessarily actively maintained.
-
 ## Background
 
 - Dental surgeon with clinical practice experience in France.
