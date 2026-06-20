@@ -30,5 +30,5 @@ Healthcare AI, medical imaging, privacy-by-design systems, clinical decision sup
 
 ## Contact
 
-- LinkedIn: [Alex Buvat](https://www.linkedin.com/in/alex-buvat/)
+- LinkedIn: [Alex Buvat](https://www.linkedin.com/in/jean-alexis-buvat/)
 - GitHub: [@Alexbuvat](https://github.com/Alexbuvat)
